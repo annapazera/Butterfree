@@ -27,7 +27,7 @@
      <appendAssemblyId>false</appendAssemblyId>
      <archive>
       <manifest>
-       <mainClass>PokemonyPowtorzenie</mainClass>
+       <mainClass>Butterfree</mainClass>
       </manifest>
      </archive>
     </configuration>
@@ -48,6 +48,16 @@
             <groupId>commons-collections</groupId>
             <artifactId>commons-collections</artifactId>
             <version>3.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xbean</groupId>
+            <artifactId>xbean-reflect</artifactId>
+            <version>3.4</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xbean</groupId>
+            <artifactId>xbean-reflect</artifactId>
+            <version>3.4</version>
         </dependency>
     </dependencies>
 
